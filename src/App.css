@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 .box {
     padding: 20px;
 }
@@ -27,4 +31,14 @@
     background-color: cornsilk;
     color: blue;
     padding: 5px 12px;
+}
+
+.placement-sm {
+    top: -3px;
+    right: -34px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: cornsilk;
+    color: blue;
+    padding: 1px 8px;
 }
